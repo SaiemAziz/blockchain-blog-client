@@ -1,0 +1,12 @@
+export const ADD_CONTENT = "ADD_CONTENT"
+export const GET_CONTENT = "GET_CONTENT"
+export const UPDATE_CONTENT = "UPDATE_CONTENT"
+export const DELETE_CONTENT = "DELETE_CONTENT"
+
+
+export const SORT_SELECT = "SORT_SELECT"
+export const TAG_SELECT = "TAG_SELECT"
+export const TAG_REMOVE = "TAG_REMOVE"
+
+
+export const READING_HISTORY = "READING_HISTORY"
